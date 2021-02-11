@@ -1,4 +1,4 @@
-// WAP to calculate area of triangle using function 
+// WAP to calculate area of triangle using function. 
 
 #include<stdio.h>
 #include<conio.h>
