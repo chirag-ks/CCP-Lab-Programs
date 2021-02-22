@@ -13,9 +13,9 @@ int main()
 {
 
   float b,h,ar;
-  printf("\nEnter the value of base and height \n");
+  printf("\nEnter the value of Base and Height \n");
   scanf("%f %f", &b, &h);
   ar= area(b,h);
-  printf("\nArea of the triangle is %f", ar);
+  printf("\nArea of the Triangle is %f", ar);
   return 0;
 }
